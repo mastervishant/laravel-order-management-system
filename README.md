@@ -131,14 +131,6 @@ routes/
  └ web.php
 ```
 
-## Future Improvements
-
-* Pagination for orders
-* Search functionality
-* Admin panel for managing all orders
-* API version for mobile integration
-* Order totals and summaries
-
 ## Author
 
 Vishant
